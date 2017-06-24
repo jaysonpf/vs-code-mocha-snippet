@@ -6,7 +6,7 @@
 			"\t${3:}",
 			"});"
 		],
-		"description": "Mocha BDD: after() | afterEach()"
+		"description": "Mocha: after() | afterEach()"
 	},
 	"before": {
 		"prefix": "tbefore",
@@ -15,7 +15,7 @@
 			"\t${3:}",
 			"});"
 		],
-		"description": "Mocha BDD: before() | beforeEach()"
+		"description": "Mocha: before() | beforeEach()"
 	},
 	"describe": {
 		"prefix": "tdesc",
@@ -24,7 +24,7 @@
 			"\t${0:}",
 			"});"
 		],
-		"description": "Mocha TDD: describe()"
+		"description": "Mocha: describe()"
 	},
 	"it": {
 		"prefix": "tit",
@@ -33,7 +33,7 @@
 			"\t${0:}",
 			"});"
 		],
-		"description": "Mocha TDD: it()"
+		"description": "Mocha: it()"
 	},
 	"test": {
 		"prefix": "ttest",
@@ -57,6 +57,6 @@
 			"    });",
 			"});"
 		],
-		"description": "Mocha TDD: test()"
+		"description": "Mocha: test()"
 	}
 }
